@@ -14,7 +14,7 @@ A. Open "BloodDonPred.R" with Rstudio
 
 B. Set working directory by:
 
-1. uncomment '#' in this code **#setwd("C:\Users\lkim016\Desktop")** so that it looks like this:
+1. uncommenting this code **#setwd("C:\Users\lkim016\Desktop")** so that it looks like this:
 
 setwd("C:\Users\lkim016\Desktop")
 
