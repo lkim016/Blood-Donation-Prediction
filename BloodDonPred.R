@@ -140,8 +140,3 @@ logi.probs=predict(logi.fit4, bld.tst,type="response")
 logi.pred=rep(0, nrow(bld.tst)) # the 400 is the length of the data set
 logi.pred[logi.probs>.5]="1"
 bld.tst$tstDonMade = logi.pred[1:nrow(bld.tst)]
-
-### reference:
-# 1. https://machinelearningmastery.com/machine-learning-in-r-step-by-step/
-# 2. https://datascienceplus.com/perform-logistic-regression-in-r/
-# 3. https://codeburst.io/implementing-a-simple-prediction-model-in-r-ab1dafa6b954
