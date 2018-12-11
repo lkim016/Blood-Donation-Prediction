@@ -1,4 +1,4 @@
-# Blood Donation Prediction
+# Blood-Donation-Prediction
 
 ## Prerequisites
 **Install R and Rstudio IDE**
