@@ -22,7 +22,7 @@ and
 
 2. change **C:\Users\lkim016\Desktop** to the path to the folder where you downloaded the above repository files
 
-**Project Guide**
+## Project Guide
 Objective: In this train dataset, we want to train the model to predict whether the person will donate blood this month with four possible predictors: “Months since last donation”, “Number of donations”, “Total volume donated (c.c.)”, “Months since first donation”.
 
 1. First, use a logistic model to predict the probability of those people to donate their blood in the blood_testdata.xlsx. To determine the choice (variables) of the logistic model, do a simple train-test validation from the blood_traindata.xlsx.
