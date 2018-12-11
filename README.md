@@ -7,20 +7,21 @@ R: https://cran.r-project.org/
 
 Rstudio: https://www.rstudio.com/products/rstudio/#Desktop
 
+## Getting Started
 **Set working directory**
-1. Open "BloodDonPred.R" with Rstudio
+A. Open "BloodDonPred.R" with Rstudio
 
-2. Set working directory by:
+B. Set working directory by:
 
-A. uncomment '#' in this code **#setwd("C:\Users\lkim016\Desktop")** so that it looks like this:
+1. uncomment '#' in this code **#setwd("C:\Users\lkim016\Desktop")** so that it looks like this:
 
 setwd("C:\Users\lkim016\Desktop")
 
 and
 
-change **C:\Users\lkim016\Desktop** to the path to the folder containing the downloaded repository files
+2. change **C:\Users\lkim016\Desktop** to the path to the folder where you downloaded the above repository files
 
-## Getting Started
+**Project Guide**
 Objective: In this train dataset, we want to train the model to predict whether the person will donate blood this month with four possible predictors: “Months since last donation”, “Number of donations”, “Total volume donated (c.c.)”, “Months since first donation”.
 
 1. First, use a logistic model to predict the probability of those people to donate their blood in the blood_testdata.xlsx. To determine the choice (variables) of the logistic model, do a simple train-test validation from the blood_traindata.xlsx.
