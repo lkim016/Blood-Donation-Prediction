@@ -14,7 +14,7 @@ Objective: In this train dataset, we want to train the model to predict whether 
 5. After your submission, I will calculate the accuracy of your prediction based on the real donation decision.
 
 ## Prerequisites
-** Install R and Rstudio IDE **
+**Install R and Rstudio IDE**
 
 R: https://cran.r-project.org/
 
