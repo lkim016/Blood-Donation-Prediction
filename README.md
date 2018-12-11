@@ -15,6 +15,8 @@ Objective: In this train dataset, we want to train the model to predict whether 
 
 ## Prerequisites
 ** Install R and Rstudio IDE **
+
 R: https://cran.r-project.org/
+
 Rstudio: https://www.rstudio.com/products/rstudio/#Desktop
 
