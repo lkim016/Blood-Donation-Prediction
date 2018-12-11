@@ -6,4 +6,4 @@ A. Predicting Blood Donation
 • Second, run all the classification machine learning models you learned in the class with the 10-fold cross validation. Choose a best model and predict whether the people in the blood_testdata.xlsx will donate or not (donate: 1; not: 0).
 • Submit your result filling two columns (Col F: Made donation this month; Col G: Probability from logistic model) with your R script.
 • Hint: if your model cannot run in the beginning, try to transform one variable to the form of logarithm.
-• After your submission, I will calculate the accuracy of your prediction based on the real donation decision
+• After your submission, I will calculate the accuracy of your prediction based on the real donation decision.
