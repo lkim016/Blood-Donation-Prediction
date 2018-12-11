@@ -9,6 +9,7 @@ Rstudio: https://www.rstudio.com/products/rstudio/#Desktop
 
 ## Getting Started
 **Set working directory**
+
 A. Open "BloodDonPred.R" with Rstudio
 
 B. Set working directory by:
