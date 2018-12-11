@@ -1,7 +1,7 @@
 ## Lori Kim
 ### Project 5
 
-# setwd("C:\Users\lkim016\Desktop")
+#setwd("C:\Users\lkim016\Desktop")
 
 install.packages("caret")
 library(class)
