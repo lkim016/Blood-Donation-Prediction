@@ -16,9 +16,9 @@ B. Set working directory by:
 
 1. uncommenting this code **#setwd("C:\Users\lkim016\Desktop")** so that it looks like this:
 
-setwd("C:\Users\lkim016\Desktop")
+- setwd("C:\Users\lkim016\Desktop")
 
-and
+- and
 
 2. change **C:\Users\lkim016\Desktop** to the path to the folder where you downloaded the above repository files
 
