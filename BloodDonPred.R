@@ -1,7 +1,7 @@
 ## Lori Kim
 ### Project 5
 
-setwd("/Volumes/LEXAR/DATA SCIENCE/Projects/Project 5")
+# setwd("C:\Users\lkim016\Desktop")
 
 install.packages("caret")
 library(class)
