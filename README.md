@@ -14,11 +14,11 @@ A. Open "BloodDonPred.R" with Rstudio
 
 B. Set working directory:
 
-1. uncomment this code **#setwd("C:\Users\lkim016\Desktop")** so that it looks like this: **setwd("C:\Users\lkim016\Desktop")**
+1. uncomment this code **#setwd("C:/Users/lkim016/Desktop")** so that it looks like this: **setwd("C:/Users/lkim016/Desktop")**
 
 and
 
-2. change **C:\Users\lkim016\Desktop** to the path to the folder where you downloaded the above repository files
+2. change **C:/Users/lkim016/Desktop** to the path to the folder where you downloaded the above repository files
 
 ## Project Guide
 Objective: In this train dataset, we want to train the model to predict whether the person will donate blood this month with four possible predictors: “Months since last donation”, “Number of donations”, “Total volume donated (c.c.)”, “Months since first donation”.
